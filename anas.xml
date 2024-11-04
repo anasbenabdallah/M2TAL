@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cv>
+  <personalInformation>
+    <name>Anas Ben Abdallah</name>
+    <address>Not specified</address>
+    <phone>Not specified</phone>
+    <email>Not specified</email>
+  </personalInformation>
+
+  <experience>
+    <job>
+      <title>Frontend Web Developer Intern</title>
+      <company>Dataiku</company>
+      <location>Paris, France</location>
+      <startDate>Upcoming</startDate>
+      <endDate>Upcoming</endDate>
+      <responsibilities>
+        <responsibility>Work on data-intensive applications in web development using AI/ML, data visualization, and cloud technologies.</responsibility>
+        <responsibility>Focus on frontend frameworks such as React, Vue, and Angular to build efficient user interfaces for data analysis.</responsibility>
+      </responsibilities>
+    </job>
+    <job>
+      <title>Software Engineering Intern</title>
+      <company>Sagemcom Tunisie</company>
+      <location>Tunisia</location>
+      <startDate>May 2024</startDate>
+      <endDate>October 2024</endDate>
+      <responsibilities>
+        <responsibility>Developed a log management solution using the MERN stack, handling datasets of up to 30,000 rows.</responsibility>
+        <responsibility>Implemented data visualization to support decision-making with charts and dashboards.</responsibility>
+        <responsibility>Integrated solution with Jira for synchronized ticket management and set up an alert system for critical logs.</responsibility>
+      </responsibilities>
+    </job>
+    <job>
+      <title>Frontend Web Developer Intern</title>
+      <company>Wyplay</company>
+      <location>Paris, France</location>
+      <startDate>May 2023</startDate>
+      <endDate>August 2023</endDate>
+      <responsibilities>
+        <responsibility>Developed a movie-related web application using JavaScript, enhancing skills in frontend development.</responsibility>
+        <responsibility>Improved teamwork methodologies and managed tasks using Jira for project coordination.</responsibility>
+      </responsibilities>
+    </job>
+  </experience>
+
+  <education>
+    <degree>
+      <name>Master’s in Natural Language Processing</name>
+      <institution>Sorbonne Paris Nord</institution>
+      <location>Paris, France</location>
+      <year>2025 (Expected)</year>
+    </degree>
+    <degree>
+      <name>Software Engineering Degree</name>
+      <institution>École Supérieure Privée d'Ingénierie et de Technologies</institution>
+      <location>Tunisia</location>
+      <year>2024</year>
+    </degree>
+    <degree>
+      <name>Preparatory Classes in Mathematics and Physics</name>
+      <institution>Not specified</institution>
+      <location>Tunisia</location>
+      <year>2019</year>
+    </degree>
+  </education>
+
+  <skills>
+    <skill>Python</skill>
+    <skill>Java</skill>
+    <skill>React</skill>
+    <skill>Vue.js</skill>
+    <skill>Angular</skill>
+    <skill>Node.js</skill>
+    <skill>MongoDB</skill>
+    <skill>Vertex AI</skill>
+    <skill>Git/GitHub</skill>
+  </skills>
+
+  <languages>
+    <language>
+      <name>French</name>
+      <level>Native</level>
+    </language>
+    <language>
+      <name>English</name>
+      <level>Fluent</level>
+    </language>
+    <language>
+      <name>Arabic</name>
+      <level>Fluent</level>
+    </language>
+  </languages>
+
+  <hobbies>
+    <hobby>LeetCode Challenges</hobby>
+  </hobbies>
+</cv>
