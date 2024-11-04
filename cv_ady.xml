@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cv>
+  <informationsPersonnelles>
+    <nom>Ady Boujnane</nom>
+    <adresse>Non spécifiée</adresse>
+    <telephone>06.99.42.97.87</telephone>
+    <email>ady.boujnane@gmail.com</email>
+  </informationsPersonnelles>
+
+
+  <experience>
+    <emploi>
+      <titre>Directeur d'exploitation des services</titre>
+      <entreprise>VIZYON - Réseau Radiologique Blockchain</entreprise>
+      <lieu>Grenoble, ARA</lieu>
+      <dateDebut>Avril 2022</dateDebut>
+      <dateFin>Mars 2023</dateFin>
+      <responsabilites>
+        <responsabilite>Recensement des besoins métiers et interfaçage avec l’équipe technique.</responsabilite>
+        <responsabilite>Amélioration du flux de communication et mise en place de méthodes AGILE.</responsabilite>
+      </responsabilites>
+    </emploi>
+    <emploi>
+      <titre>Ingénieur Développeur Logiciels</titre>
+      <entreprise>VIZYON - Réseau Radiologique Blockchain</entreprise>
+      <lieu>Grenoble, ARA</lieu>
+      <dateDebut>Octobre 2021</dateDebut>
+      <dateFin>Mars 2022</dateFin>
+      <responsabilites>
+        <responsabilite>Mise en place d’algorithmes NLP pour la génération de comptes-rendus structurés.</responsabilite>
+        <responsabilite>Création d’un outil OCR pour l’automatisation de la gestion des listes de travail.</responsabilite>
+        <responsabilite>Contribution au développement de la plateforme frontend/backend.</responsabilite>
+        <responsabilite>Déploiement d'une base de données et d'une API REST pour la gestion des formulaires.</responsabilite>
+      </responsabilites>
+    </emploi>
+    <emploi>
+      <titre>Co-fondateur</titre>
+      <entreprise>BUBO - ESN/SSII IA</entreprise>
+      <lieu>Paris, IDF</lieu>
+      <dateDebut>Novembre 2017</dateDebut>
+      <dateFin>Présent</dateFin>
+      <responsabilites>
+        <responsabilite>Scraping et création d’une base de données en Python.</responsabilite>
+        <responsabilite>Développement du backend de la plateforme Web avec React et TypeScript.</responsabilite>
+        <responsabilite>Conception d’algorithmes prédictifs utilisant des techniques de machine learning.</responsabilite>
+        <responsabilite>Extraction et clustering de mots-clés avec TensorFlow et PyTorch.</responsabilite>
+      </responsabilites>
+    </emploi>
+    <emploi>
+      <titre>Stage Analyste de données (Data Analyst)</titre>
+      <entreprise>Société Générale</entreprise>
+      <lieu>Val de Fontenay, IDF</lieu>
+      <dateDebut>Avril 2016</dateDebut>
+      <dateFin>Septembre 2016</dateFin>
+      <responsabilites>
+        <responsabilite>Homologation bancaire pour la réglementation CRS.</responsabilite>
+        <responsabilite>Création de jeux de tests de certifications.</responsabilite>
+        <responsabilite>Développement d’un software en VBA pour l’automatisation de processus.</responsabilite>
+      </responsabilites>
+    </emploi>
+  </experience>
+
+  <formation>
+    <diplome>
+      <intitule>Licence - Ingénierie Mathématiques et Informatique</intitule>
+      <etablissement>Université Paris-Est-Marne-la-Vallée</etablissement>
+      <lieu>Champs-sur-Marne, IDF</lieu>
+      <annee>2018</annee>
+    </diplome>
+    <diplome>
+      <intitule>Ecole d’ingénieur - Informatique et Mathématiques appliquées</intitule>
+      <etablissement>Polytech PARIS-UPMC</etablissement>
+      <lieu>Paris, IDF</lieu>
+      <annee>2017</annee>
+    </diplome>
+    <diplome>
+      <intitule>Certificat Big Data</intitule>
+      <etablissement>Université Paris VI</etablissement>
+      <lieu>Paris, IDF</lieu>
+      <annee>2016</annee>
+    </diplome>
+  </formation>
+
+  <competences>
+    <competence>Python</competence>
+    <competence>Java</competence>
+    <competence>React</competence>
+    <competence>TypeScript</competence>
+    <competence>Node.js</competence>
+    <competence>HTML/CSS</competence>
+    <competence>MongoDB</competence>
+    <competence>Docker</competence>
+  </competences>
+
+  <langues>
+    <langue>
+      <nom>Français</nom>
+      <niveau>C2 (natif)</niveau>
+    </langue>
+    <langue>
+      <nom>Anglais</nom>
+      <niveau>C1</niveau>
+    </langue>
+    <langue>
+      <nom>Arabe</nom>
+      <niveau>B2</niveau>
+    </langue>
+    <langue>
+      <nom>Allemand</nom>
+      <niveau>A</niveau>
+    </langue>
+  </langues>
+
+  <loisirs>
+    <loisir>Non spécifié</loisir>
+  </loisirs>
+</cv>
